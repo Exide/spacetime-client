@@ -1,6 +1,6 @@
 import {Texture, Sprite, Point} from 'pixi.js';
 import image from '../resources/images/ship.png';
-import {degreesToRadians, radiansToDegrees} from '../../utils/math';
+import {degreesToRadians, radiansToDegrees} from './math';
 import config from '../config.json';
 
 /**
